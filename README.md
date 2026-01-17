@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[profile.jpg](https://res.cloudinary.com/dafpfjkjb/image/upload/WhatsApp_Image_2025-09-25_at_19_35_13_dc8c4c19-photoaidcom-cropped_v6qffi.png)" alt="Manvi Sinha" width="180" style="border-radius:50%;" />
+</p>
+
 # 💫 About Me :
 Hi, I’m Manvi Sinha, a passionate learner with a strong interest in problem solving. I enjoy tackling programming challenges using Java and Python, along with HTML, CSS, and JavaScript, and I have hands on experience with machine learning and libraries such as Pandas, NumPy, and Matplotlib. I am familiar with CS fundamentals including OOPS, DBMS and I work with tools like Google Colab and Figma. Alongside my technical skills, I bring strong communication abilities, teamwork, and event management skills. I am always eager to learn, grow through real world projects, and collaborate .
 <br>Feel free to reach out at manvisinhan4500@gmail.com.
