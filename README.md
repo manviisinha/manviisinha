@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[profile.jpg](https://res.cloudinary.com/dafpfjkjb/image/upload/WhatsApp_Image_2025-09-25_at_19_35_13_dc8c4c19-photoaidcom-cropped_v6qffi.png)" alt="Manvi Sinha" width="180" style="border-radius:50%;" />
+  <img src="(https://res.cloudinary.com/dafpfjkjb/image/upload/WhatsApp_Image_2025-09-25_at_19_35_13_dc8c4c19-photoaidcom-cropped_v6qffi.png)" alt="Manvi Sinha" width="180" style="border-radius:50%;" />
 </p>
 
 # 💫 About Me :
